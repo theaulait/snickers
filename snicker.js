@@ -7,7 +7,7 @@ $(document).ready(function(){
   var $counter = $('#counter');
   var $count = 0;
   var $start = $('#start');
-  var timeLeft = 45;
+  var timeLeft = 60;
   var snicker = $('.snicker');
   var $candyJar = $('#candyJar');
   var stop;
